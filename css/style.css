@@ -140,7 +140,6 @@
 .btn-dark{
    color: black;
    border: 2px solid grey;
-   margin: 22px 540px;
 }
 .section{
    display: flex;
@@ -195,9 +194,9 @@ sectionTag{
 }
 
 .form-input{
-   margin: 14px 152px;
+   margin: 14px 0px;
    padding: 5px 13px;
-   width: 72%;
+   width: 80%;
    font-size: 19px;
    border: 2px solid grey;
    border-radius: 6px;
